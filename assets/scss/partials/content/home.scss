@@ -11,16 +11,16 @@
         .item {
             a {
                 display: block;
-                margin: 4px 8px;
-                padding: 8px;
-                width: 96px;
+                margin: 3px 6px;
+                padding: 6px;
+                width: 64px;
                 background: $gray-white-400;
                 border-radius: 6px;
                 text-align: center;
                 transition: .3s padding ease;
 
             &:hover {
-                padding: 24px 8px;
+                padding: 8px;
                 }
             }
         }
