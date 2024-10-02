@@ -115,3 +115,24 @@
     src: url('fonts/segoe/segoesc.ttf') format('TrueType'),
         url('fonts/segoe/segoescb.ttf') format('TrueType');
 }
+
+@font-face {
+    font-family: LXGWWenKaiGBLite-Regular;
+    src: url('fonts/ttfs/LXGWWenKaiGBLite-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: LXGWWenKaiMonoGBLite-Regular;
+    src: url('fonts/ttfs/LXGWWenKaiMonoGBLite-Regular.ttf') format('Truetype');
+}
+
+@font-face {
+    font-family: hwKai;
+    src: url('fonts/ttfs/hwKai.ttf') format('Truetype');
+}
+
+@font-face {
+    font-family: hwKaiBold;
+    font-weight: bold;
+    src: url('fonts/ttfs/hwkaiBold.ttf') format('Truetype');
+}
