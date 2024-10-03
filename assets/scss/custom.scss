@@ -50,34 +50,18 @@ h2 {
 
 h3 {
     font-size: 0.24rem;
-
-    &:before {
-        content: '♪³ ';
-    }
 }
 
 h4 {
     font-size: 0.2rem;
-
-    &:before {
-        content: '♪⁴ ';
-    }
 }
 
 h5 {
-    font-size: 0.2rem;
-
-    &:before {
-        content: '♪⁵ ';
-    }
+    font-size: 0.18rem;
 }
 
 h6 {
-    font-size: 0.2rem;
-
-    &:before {
-        content: '♪⁶ ';
-    }
+    font-size: 0.16rem;
 }
 
 img {
